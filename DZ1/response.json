@@ -1,0 +1,492 @@
+{
+  "results": [
+    {
+      "fsq_id": "4f7b0417e4b006539b0d31b8",
+      "categories": [
+        {
+          "id": 13034,
+          "name": "Café",
+          "short_name": "Café",
+          "plural_name": "Cafés",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "Unsure",
+      "distance": 1648,
+      "geocodes": {
+        "main": {
+          "latitude": 53.614116,
+          "longitude": 55.967867
+        },
+        "roof": {
+          "latitude": 53.614116,
+          "longitude": 55.967867
+        }
+      },
+      "link": "/v3/places/4f7b0417e4b006539b0d31b8",
+      "location": {
+        "address": "Некрасова, 1Б",
+        "country": "RU",
+        "cross_street": "ул. Пугачева",
+        "formatted_address": "Некрасова, 1Б (ул. Пугачева), 453114, Стерлитамак",
+        "locality": "Стерлитамак",
+        "postcode": "453114",
+        "region": "Башкортостан"
+      },
+      "name": "Кафе Бухарест",
+      "related_places": {},
+      "timezone": "Asia/Yekaterinburg"
+    },
+    {
+      "fsq_id": "4f02cd3e30f89923350bb1c1",
+      "categories": [
+        {
+          "id": 13064,
+          "name": "Pizzeria",
+          "short_name": "Pizza",
+          "plural_name": "Pizzerias",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "Unsure",
+      "distance": 2282,
+      "geocodes": {
+        "main": {
+          "latitude": 53.644615,
+          "longitude": 55.94311
+        },
+        "roof": {
+          "latitude": 53.644615,
+          "longitude": 55.94311
+        }
+      },
+      "link": "/v3/places/4f02cd3e30f89923350bb1c1",
+      "location": {
+        "address": "Респ Башкортостан, Мира Ул., д.2",
+        "country": "RU",
+        "cross_street": "ул. Нахимова",
+        "formatted_address": "Респ Башкортостан, Мира Ул., д.2 (ул. Нахимова), 453103, Стерлитамак",
+        "locality": "Стерлитамак",
+        "postcode": "453103",
+        "region": "Башкортостан"
+      },
+      "name": "Пиццман & Калачёв",
+      "related_places": {},
+      "timezone": "Asia/Yekaterinburg"
+    },
+    {
+      "fsq_id": "4f329cd9e4b0acb1ed0dbcd5",
+      "categories": [
+        {
+          "id": 13035,
+          "name": "Coffee Shop",
+          "short_name": "Coffee Shop",
+          "plural_name": "Coffee Shops",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13276,
+          "name": "Sushi Restaurant",
+          "short_name": "Sushi",
+          "plural_name": "Sushi Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/sushi_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2827,
+      "geocodes": {
+        "main": {
+          "latitude": 53.623082,
+          "longitude": 55.907428
+        },
+        "roof": {
+          "latitude": 53.623082,
+          "longitude": 55.907428
+        }
+      },
+      "link": "/v3/places/4f329cd9e4b0acb1ed0dbcd5",
+      "location": {
+        "address": "Ибрагимова, 58",
+        "country": "RU",
+        "cross_street": "",
+        "formatted_address": "Ибрагимова, 58, 450006, Стерлитамак",
+        "locality": "Стерлитамак",
+        "postcode": "450006",
+        "region": "Башкортостан"
+      },
+      "name": "Кафе Суши Ё Пицца на улице Ибрагимова",
+      "related_places": {},
+      "timezone": "Asia/Yekaterinburg"
+    },
+    {
+      "fsq_id": "4f46019ce4b0cc9b8079f5d9",
+      "categories": [
+        {
+          "id": 11057,
+          "name": "Caterer",
+          "short_name": "Caterer",
+          "plural_name": "Caterers",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/foodanddrink_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13276,
+          "name": "Sushi Restaurant",
+          "short_name": "Sushi",
+          "plural_name": "Sushi Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/sushi_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "Unsure",
+      "distance": 1153,
+      "geocodes": {
+        "main": {
+          "latitude": 53.618059,
+          "longitude": 55.963593
+        },
+        "roof": {
+          "latitude": 53.618059,
+          "longitude": 55.963593
+        }
+      },
+      "link": "/v3/places/4f46019ce4b0cc9b8079f5d9",
+      "location": {
+        "address": "Худайбердина Ул., д. 19а",
+        "country": "RU",
+        "cross_street": "ул. Комсомольская",
+        "formatted_address": "Худайбердина Ул., д. 19а (ул. Комсомольская), 453124, Стерлитамак",
+        "locality": "Стерлитамак",
+        "postcode": "453124",
+        "region": "Башкортостан"
+      },
+      "name": "Сатори",
+      "related_places": {},
+      "timezone": "Asia/Yekaterinburg"
+    },
+    {
+      "fsq_id": "4dd010fa52b1f8915bbec3df",
+      "categories": [
+        {
+          "id": 13034,
+          "name": "Café",
+          "short_name": "Café",
+          "plural_name": "Cafés",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13035,
+          "name": "Coffee Shop",
+          "short_name": "Coffee Shop",
+          "plural_name": "Coffee Shops",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "Unsure",
+      "distance": 1069,
+      "geocodes": {
+        "main": {
+          "latitude": 53.619922,
+          "longitude": 55.964628
+        },
+        "roof": {
+          "latitude": 53.619922,
+          "longitude": 55.964628
+        }
+      },
+      "link": "/v3/places/4dd010fa52b1f8915bbec3df",
+      "location": {
+        "address": "Комсомольская Ул., д. 84",
+        "country": "RU",
+        "cross_street": "",
+        "formatted_address": "Комсомольская Ул., д. 84, 453124, Стерлитамак",
+        "locality": "Стерлитамак",
+        "postcode": "453124",
+        "region": "Башкортостан"
+      },
+      "name": "Венская кофейня",
+      "related_places": {},
+      "timezone": "Asia/Yekaterinburg"
+    },
+    {
+      "fsq_id": "5267771511d2c9f83832e487",
+      "categories": [
+        {
+          "id": 13145,
+          "name": "Fast Food Restaurant",
+          "short_name": "Fast Food",
+          "plural_name": "Fast Food Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "Unsure",
+      "distance": 1794,
+      "geocodes": {
+        "main": {
+          "latitude": 53.638857,
+          "longitude": 55.93735
+        },
+        "roof": {
+          "latitude": 53.638857,
+          "longitude": 55.93735
+        }
+      },
+      "link": "/v3/places/5267771511d2c9f83832e487",
+      "location": {
+        "address": "Голикова Ул., д. 20",
+        "country": "RU",
+        "cross_street": "просп. Ленина",
+        "formatted_address": "Голикова Ул., д. 20 (просп. Ленина), 453103, Стерлитамак",
+        "locality": "Стерлитамак",
+        "postcode": "453103",
+        "region": "Башкортостан"
+      },
+      "name": "KFС",
+      "related_places": {},
+      "timezone": "Asia/Yekaterinburg"
+    },
+    {
+      "fsq_id": "4e86199acc210aef90988386",
+      "categories": [
+        {
+          "id": 13003,
+          "name": "Bar",
+          "short_name": "Bar",
+          "plural_name": "Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "Unsure",
+      "distance": 859,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 53.619802,
+          "longitude": 55.96047
+        },
+        "main": {
+          "latitude": 53.619953,
+          "longitude": 55.960527
+        },
+        "roof": {
+          "latitude": 53.619953,
+          "longitude": 55.960527
+        }
+      },
+      "link": "/v3/places/4e86199acc210aef90988386",
+      "location": {
+        "address": "Худайбердина Ул., д. 22",
+        "country": "RU",
+        "cross_street": "ул. Мира",
+        "formatted_address": "Худайбердина Ул., д. 22 (ул. Мира), 453124, Стерлитамак",
+        "locality": "Стерлитамак",
+        "postcode": "453124",
+        "region": "Башкортостан"
+      },
+      "name": "СТАРЫЙ ГОРОД",
+      "related_places": {},
+      "timezone": "Asia/Yekaterinburg"
+    },
+    {
+      "fsq_id": "4da966fb0cb6a89c625455ce",
+      "categories": [
+        {
+          "id": 13035,
+          "name": "Coffee Shop",
+          "short_name": "Coffee Shop",
+          "plural_name": "Coffee Shops",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13356,
+          "name": "Turkish Restaurant",
+          "short_name": "Turkish",
+          "plural_name": "Turkish Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/turkish_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "Unsure",
+      "distance": 2535,
+      "geocodes": {
+        "main": {
+          "latitude": 53.629055,
+          "longitude": 55.913926
+        },
+        "roof": {
+          "latitude": 53.629055,
+          "longitude": 55.913926
+        }
+      },
+      "link": "/v3/places/4da966fb0cb6a89c625455ce",
+      "location": {
+        "address": "Октября Пр., 59",
+        "country": "RU",
+        "cross_street": "",
+        "formatted_address": "Октября Пр., 59, Стерлитамак",
+        "locality": "Стерлитамак",
+        "region": "Башкортостан"
+      },
+      "name": "Капитоль",
+      "related_places": {},
+      "timezone": "Asia/Yekaterinburg"
+    },
+    {
+      "fsq_id": "514d8314e4b08b30877e71da",
+      "categories": [
+        {
+          "id": 13034,
+          "name": "Café",
+          "short_name": "Café",
+          "plural_name": "Cafés",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13064,
+          "name": "Pizzeria",
+          "short_name": "Pizza",
+          "plural_name": "Pizzerias",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyClosed",
+      "distance": 3178,
+      "geocodes": {
+        "main": {
+          "latitude": 53.622303,
+          "longitude": 55.901831
+        },
+        "roof": {
+          "latitude": 53.622303,
+          "longitude": 55.901831
+        }
+      },
+      "link": "/v3/places/514d8314e4b08b30877e71da",
+      "location": {
+        "address": "Артёма, 96",
+        "address_extended": "эт. 3",
+        "country": "RU",
+        "cross_street": "ТРЦ Арбат",
+        "formatted_address": "Артёма, 96 (ТРЦ Арбат), 453100, Стерлитамак",
+        "locality": "Стерлитамак",
+        "postcode": "453100",
+        "region": "Башкортостан"
+      },
+      "name": "Кафе Pizza",
+      "related_places": {},
+      "timezone": "Asia/Yekaterinburg"
+    },
+    {
+      "fsq_id": "51cc7a43498e16c1d3a054f0",
+      "categories": [
+        {
+          "id": 13034,
+          "name": "Café",
+          "short_name": "Café",
+          "plural_name": "Cafés",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13145,
+          "name": "Fast Food Restaurant",
+          "short_name": "Fast Food",
+          "plural_name": "Fast Food Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 731,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 53.618369,
+          "longitude": 55.954627
+        },
+        "main": {
+          "latitude": 53.618511,
+          "longitude": 55.954495
+        },
+        "roof": {
+          "latitude": 53.618511,
+          "longitude": 55.954495
+        }
+      },
+      "link": "/v3/places/51cc7a43498e16c1d3a054f0",
+      "location": {
+        "address": "Кузбасс, Белово, Советская, 52/5",
+        "country": "RU",
+        "formatted_address": "Кузбасс, Белово, Советская, 52/5, 453126, Стерлитамак",
+        "locality": "Стерлитамак",
+        "postcode": "453126",
+        "region": "Башкортостан"
+      },
+      "name": "Бистро",
+      "related_places": {},
+      "timezone": "Asia/Yekaterinburg"
+    }
+  ],
+  "context": {
+    "geo_bounds": {
+      "circle": {
+        "center": {
+          "latitude": 53.62462,
+          "longitude": 55.95015
+        },
+        "radius": 4848
+      }
+    }
+  }
+}
