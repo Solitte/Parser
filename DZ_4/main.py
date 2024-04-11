@@ -31,7 +31,7 @@ if response.ok:
         list_news.append(dict_news)
 
     print(list_news)
-    with open('csv_write_dictwriter.csv', 'w', encoding='UTF-8') as f:
+    with open('Topnews.csv', 'w', encoding='UTF-8') as f:
         writer = csv.DictWriter(
             f, fieldnames=list(list_news[0].keys()), quoting=csv.QUOTE_NONNUMERIC)
         writer.writeheader()
