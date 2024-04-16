@@ -19,7 +19,7 @@ class HhruSpider(scrapy.Spider):
             yield response.follow(link, callback=self.vacansy_parse)
 
     def vacansy_parse(self, response: HtmlResponse):
-        name = response.xpath("//h1/text()").getall()
+        name = response.xpath("//h1/text()").get()
         salary = response.xpath("//div[@data-qa='vacancy-salary']//text()").getall()
         url = response.url
         yield HhparserItem(name=name, salary=salary, url=url)

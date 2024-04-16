@@ -16,5 +16,18 @@ class HhparserPipeline:
 
     def process_item(self, item, spider):
         collection = self.mongobase[spider.name]
+        if item['salary']:
+            salary_ = ''.join(item['salary'])
+            salary_ = salary_.replace('₽', 'руб')
+            if item['salary']:
+                for i in range(len(item['salary'])):
+                    if 'от' in item['salary'][i]:
+                        item['min_salary'] = int(item['salary'][i + 1].replace(' ', ''))
+                    if 'до' in item['salary'][i] and 'вычета' not in item['salary'][i] :
+                        item['max_salary'] = int(item['salary'][i + 1].replace(' ', ''))
+                        break
+            item['salary'] = salary_
+        else:
+            item['salary'] = 'По договоренности'
         collection.insert_one(item)
         return item
