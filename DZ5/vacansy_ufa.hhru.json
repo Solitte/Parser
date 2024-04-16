@@ -1,0 +1,1525 @@
+[{
+  "_id": {
+    "$oid": "661ead9da8c37fb6dde89ce3"
+  },
+  "name": [
+    "Senior backend developer",
+    "72",
+    "%"
+  ],
+  "salary": [
+    "от ",
+    "250 000",
+    " ",
+    "₽",
+    " ",
+    "до вычета налогов"
+  ],
+  "url": "https://ufa.hh.ru/vacancy/94989200?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661ead9da8c37fb6dde89ce4"
+  },
+  "name": [
+    "Руководитель направления аналитики клиентских отношений",
+    "67",
+    "%"
+  ],
+  "salary": [],
+  "url": "https://ufa.hh.ru/vacancy/97075921?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661ead9ea8c37fb6dde89ce5"
+  },
+  "name": [
+    "Аналитик"
+  ],
+  "salary": [
+    "от ",
+    "40 000",
+    " ",
+    "₽",
+    " ",
+    "до вычета налогов"
+  ],
+  "url": "https://ufa.hh.ru/vacancy/94624138?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661ead9ea8c37fb6dde89ce6"
+  },
+  "name": [
+    "Инженер-программист"
+  ],
+  "salary": [
+    "от ",
+    "70 000",
+    " ",
+    "₽",
+    " ",
+    "на руки"
+  ],
+  "url": "https://ufa.hh.ru/vacancy/96993536?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661ead9ea8c37fb6dde89ce7"
+  },
+  "name": [
+    "Инженер-программист АСУ (middle/middle+)",
+    "67",
+    "%"
+  ],
+  "salary": [],
+  "url": "https://ufa.hh.ru/vacancy/95908976?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661ead9ea8c37fb6dde89ce8"
+  },
+  "name": [
+    "Middle Django-разработчик"
+  ],
+  "salary": [
+    "от ",
+    "60 000",
+    " до ",
+    "100 000",
+    " ",
+    "₽",
+    " ",
+    "на руки"
+  ],
+  "url": "https://ufa.hh.ru/vacancy/95901940?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661ead9fa8c37fb6dde89ce9"
+  },
+  "name": [
+    "Senior Backend developer Python",
+    "89",
+    "%"
+  ],
+  "salary": [],
+  "url": "https://ufa.hh.ru/vacancy/94052982?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661ead9fa8c37fb6dde89cea"
+  },
+  "name": [
+    "Python-разработчик (Senior)",
+    "92",
+    "%"
+  ],
+  "salary": [
+    "до ",
+    "300 000",
+    " ",
+    "₽",
+    " ",
+    "на руки"
+  ],
+  "url": "https://ufa.hh.ru/vacancy/95059924?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eada0a8c37fb6dde89ceb"
+  },
+  "name": [
+    "Backend-разработчик (Python)"
+  ],
+  "salary": [
+    "от ",
+    "120 000",
+    " ",
+    "₽",
+    " ",
+    "на руки"
+  ],
+  "url": "https://ufa.hh.ru/vacancy/96096172?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eada0a8c37fb6dde89cec"
+  },
+  "name": [
+    "Python разработчик",
+    "78",
+    "%"
+  ],
+  "salary": [],
+  "url": "https://ufa.hh.ru/vacancy/96145598?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eada0a8c37fb6dde89ced"
+  },
+  "name": [
+    "Python developer",
+    "77",
+    "%"
+  ],
+  "salary": [],
+  "url": "https://ufa.hh.ru/vacancy/96169785?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eada1a8c37fb6dde89cee"
+  },
+  "name": [
+    "Автотестировщик Python",
+    "85",
+    "%"
+  ],
+  "salary": [],
+  "url": "https://ufa.hh.ru/vacancy/96267970?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eada1a8c37fb6dde89cef"
+  },
+  "name": [
+    "Middle+/Senior Python-разработчик",
+    "82",
+    "%"
+  ],
+  "salary": [],
+  "url": "https://ufa.hh.ru/vacancy/92936043?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eada1a8c37fb6dde89cf0"
+  },
+  "name": [
+    "Backend-разработчик (Python)",
+    "85",
+    "%"
+  ],
+  "salary": [],
+  "url": "https://ufa.hh.ru/vacancy/96494519?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eada2a8c37fb6dde89cf1"
+  },
+  "name": [
+    "Python developer / Разработчик Python (KORNFELD)",
+    "78",
+    "%"
+  ],
+  "salary": [],
+  "url": "https://ufa.hh.ru/vacancy/96536278?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eada2a8c37fb6dde89cf2"
+  },
+  "name": [
+    "Программист Python, С, С++",
+    "100",
+    "%"
+  ],
+  "salary": [
+    "от ",
+    "70 000",
+    " ",
+    "₽",
+    " ",
+    "на руки"
+  ],
+  "url": "https://ufa.hh.ru/vacancy/96727843?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eada3a8c37fb6dde89cf3"
+  },
+  "name": [
+    "Разработчик Python",
+    "75",
+    "%"
+  ],
+  "salary": [],
+  "url": "https://ufa.hh.ru/vacancy/94747153?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eada3a8c37fb6dde89cf4"
+  },
+  "name": [
+    "Frontend-разработчик Python (Middle)",
+    "85",
+    "%"
+  ],
+  "salary": [
+    "от ",
+    "60 000",
+    " до ",
+    "120 000",
+    " ",
+    "₽",
+    " ",
+    "до вычета налогов"
+  ],
+  "url": "https://ufa.hh.ru/vacancy/97030169?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eada3a8c37fb6dde89cf5"
+  },
+  "name": [
+    "Программист Python (middle)",
+    "72",
+    "%"
+  ],
+  "salary": [
+    "от ",
+    "175 000",
+    " ",
+    "₽",
+    " ",
+    "до вычета налогов"
+  ],
+  "url": "https://ufa.hh.ru/vacancy/94989175?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eada4a8c37fb6dde89cf6"
+  },
+  "name": [
+    "Python developer",
+    "88",
+    "%"
+  ],
+  "salary": [],
+  "url": "https://ufa.hh.ru/vacancy/95174988?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eadcdb9cdc1e2fb77815e"
+  },
+  "name": [
+    "Senior backend developer",
+    "72",
+    "%"
+  ],
+  "salary": [
+    "от ",
+    "250 000",
+    " ",
+    "₽",
+    " ",
+    "до вычета налогов"
+  ],
+  "url": "https://ufa.hh.ru/vacancy/94989200?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eadceb9cdc1e2fb77815f"
+  },
+  "name": [
+    "Руководитель направления аналитики клиентских отношений",
+    "67",
+    "%"
+  ],
+  "salary": [],
+  "url": "https://ufa.hh.ru/vacancy/97075921?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eadcfb9cdc1e2fb778160"
+  },
+  "name": [
+    "Инженер-программист"
+  ],
+  "salary": [
+    "от ",
+    "70 000",
+    " ",
+    "₽",
+    " ",
+    "на руки"
+  ],
+  "url": "https://ufa.hh.ru/vacancy/96993536?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eadd1b9cdc1e2fb778161"
+  },
+  "name": [
+    "Аналитик"
+  ],
+  "salary": [
+    "от ",
+    "40 000",
+    " ",
+    "₽",
+    " ",
+    "до вычета налогов"
+  ],
+  "url": "https://ufa.hh.ru/vacancy/94624138?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eadd2b9cdc1e2fb778162"
+  },
+  "name": [
+    "Инженер-программист АСУ (middle/middle+)",
+    "67",
+    "%"
+  ],
+  "salary": [],
+  "url": "https://ufa.hh.ru/vacancy/95908976?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eadd3b9cdc1e2fb778163"
+  },
+  "name": [
+    "Middle Django-разработчик"
+  ],
+  "salary": [
+    "от ",
+    "60 000",
+    " до ",
+    "100 000",
+    " ",
+    "₽",
+    " ",
+    "на руки"
+  ],
+  "url": "https://ufa.hh.ru/vacancy/95901940?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eadd5b9cdc1e2fb778164"
+  },
+  "name": [
+    "Senior Backend developer Python",
+    "89",
+    "%"
+  ],
+  "salary": [],
+  "url": "https://ufa.hh.ru/vacancy/94052982?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eadd6b9cdc1e2fb778165"
+  },
+  "name": [
+    "Python-разработчик (Senior)",
+    "92",
+    "%"
+  ],
+  "salary": [
+    "до ",
+    "300 000",
+    " ",
+    "₽",
+    " ",
+    "на руки"
+  ],
+  "url": "https://ufa.hh.ru/vacancy/95059924?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eadd7b9cdc1e2fb778166"
+  },
+  "name": [
+    "Backend-разработчик (Python)"
+  ],
+  "salary": [
+    "от ",
+    "120 000",
+    " ",
+    "₽",
+    " ",
+    "на руки"
+  ],
+  "url": "https://ufa.hh.ru/vacancy/96096172?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eadd8b9cdc1e2fb778167"
+  },
+  "name": [
+    "Python разработчик",
+    "78",
+    "%"
+  ],
+  "salary": [],
+  "url": "https://ufa.hh.ru/vacancy/96145598?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eaddab9cdc1e2fb778168"
+  },
+  "name": [
+    "Python developer",
+    "77",
+    "%"
+  ],
+  "salary": [],
+  "url": "https://ufa.hh.ru/vacancy/96169785?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eaddbb9cdc1e2fb778169"
+  },
+  "name": [
+    "Автотестировщик Python",
+    "85",
+    "%"
+  ],
+  "salary": [],
+  "url": "https://ufa.hh.ru/vacancy/96267970?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eaddbb9cdc1e2fb77816a"
+  },
+  "name": [
+    "Middle+/Senior Python-разработчик",
+    "82",
+    "%"
+  ],
+  "salary": [],
+  "url": "https://ufa.hh.ru/vacancy/92936043?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eaddcb9cdc1e2fb77816b"
+  },
+  "name": [
+    "Backend-разработчик (Python)",
+    "85",
+    "%"
+  ],
+  "salary": [],
+  "url": "https://ufa.hh.ru/vacancy/96494519?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eadddb9cdc1e2fb77816c"
+  },
+  "name": [
+    "Python developer / Разработчик Python (KORNFELD)",
+    "78",
+    "%"
+  ],
+  "salary": [],
+  "url": "https://ufa.hh.ru/vacancy/96536278?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eaddeb9cdc1e2fb77816d"
+  },
+  "name": [
+    "Программист Python, С, С++",
+    "100",
+    "%"
+  ],
+  "salary": [
+    "от ",
+    "70 000",
+    " ",
+    "₽",
+    " ",
+    "на руки"
+  ],
+  "url": "https://ufa.hh.ru/vacancy/96727843?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eade0b9cdc1e2fb77816e"
+  },
+  "name": [
+    "Инженер-тестировщик (наладка и испытания) АСУ ТП",
+    "80",
+    "%"
+  ],
+  "salary": [
+    "от ",
+    "90 000",
+    " ",
+    "₽",
+    " ",
+    "на руки"
+  ],
+  "url": "https://ufa.hh.ru/vacancy/96171737?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eade1b9cdc1e2fb77816f"
+  },
+  "name": [
+    "Инженер-программист",
+    "80",
+    "%"
+  ],
+  "salary": [
+    "от ",
+    "60 000",
+    " ",
+    "₽",
+    " ",
+    "на руки"
+  ],
+  "url": "https://ufa.hh.ru/vacancy/96165095?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eade2b9cdc1e2fb778170"
+  },
+  "name": [
+    "Ведущий инженер-программист АСУ ТП",
+    "80",
+    "%"
+  ],
+  "salary": [
+    "от ",
+    "100 000",
+    " ",
+    "₽",
+    " ",
+    "на руки"
+  ],
+  "url": "https://ufa.hh.ru/vacancy/96171534?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eade3b9cdc1e2fb778171"
+  },
+  "name": [
+    "ML-инженер",
+    "75",
+    "%"
+  ],
+  "salary": [],
+  "url": "https://ufa.hh.ru/vacancy/80321762?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eade5b9cdc1e2fb778172"
+  },
+  "name": [
+    "Руководитель группы разработки (Team Lead)",
+    "75",
+    "%"
+  ],
+  "salary": [],
+  "url": "https://ufa.hh.ru/vacancy/91332911?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eade6b9cdc1e2fb778173"
+  },
+  "name": [
+    "Инженер по нагрузочному тестированию",
+    "82",
+    "%"
+  ],
+  "salary": [],
+  "url": "https://ufa.hh.ru/vacancy/95462279?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eade7b9cdc1e2fb778174"
+  },
+  "name": [
+    "Инженер-программист отдела анализа защищенности ПО АСУТП",
+    "50",
+    "%"
+  ],
+  "salary": [
+    "от ",
+    "115 924",
+    " до ",
+    "155 988",
+    " ",
+    "₽",
+    " ",
+    "до вычета налогов"
+  ],
+  "url": "https://ufa.hh.ru/vacancy/94176372?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eade8b9cdc1e2fb778175"
+  },
+  "name": [
+    "Системный администратор ЦОД",
+    "75",
+    "%"
+  ],
+  "salary": [],
+  "url": "https://ufa.hh.ru/vacancy/96205032?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eadeab9cdc1e2fb778176"
+  },
+  "name": [
+    "Системный администратор цифрового телевидения",
+    "78",
+    "%"
+  ],
+  "salary": [
+    "от ",
+    "80 000",
+    " до ",
+    "110 000",
+    " ",
+    "₽",
+    " ",
+    "на руки"
+  ],
+  "url": "https://ufa.hh.ru/vacancy/95868426?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eadebb9cdc1e2fb778177"
+  },
+  "name": [
+    "Учитель программирования/робототехники",
+    "85",
+    "%"
+  ],
+  "salary": [
+    "до ",
+    "110 000",
+    " ",
+    "₽",
+    " ",
+    "до вычета налогов"
+  ],
+  "url": "https://ufa.hh.ru/vacancy/96058226?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eadecb9cdc1e2fb778178"
+  },
+  "name": [
+    "Системный аналитик (стажер)",
+    "97",
+    "%"
+  ],
+  "salary": [
+    "от ",
+    "70 000",
+    " до ",
+    "80 000",
+    " ",
+    "₽",
+    " ",
+    "до вычета налогов"
+  ],
+  "url": "https://ufa.hh.ru/vacancy/96428557?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eadedb9cdc1e2fb778179"
+  },
+  "name": [
+    ".NET-разработчик Middle/Senior",
+    "100",
+    "%"
+  ],
+  "salary": [],
+  "url": "https://ufa.hh.ru/vacancy/91647557?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eadeeb9cdc1e2fb77817a"
+  },
+  "name": [
+    "Программист встроенных систем (unix/linux)",
+    "78",
+    "%"
+  ],
+  "salary": [
+    "от ",
+    "80 000",
+    " до ",
+    "150 000",
+    " ",
+    "₽",
+    " ",
+    "на руки"
+  ],
+  "url": "https://ufa.hh.ru/vacancy/95863769?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eadefb9cdc1e2fb77817b"
+  },
+  "name": [
+    "Инженер по нагрузочному тестированию",
+    "78",
+    "%"
+  ],
+  "salary": [],
+  "url": "https://ufa.hh.ru/vacancy/96206573?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eadf0b9cdc1e2fb77817c"
+  },
+  "name": [
+    "Инженер-программист",
+    "91",
+    "%"
+  ],
+  "salary": [],
+  "url": "https://ufa.hh.ru/vacancy/95670950?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eadf1b9cdc1e2fb77817d"
+  },
+  "name": [
+    "Прикладной математик-программист C++",
+    "78",
+    "%"
+  ],
+  "salary": [],
+  "url": "https://ufa.hh.ru/vacancy/96145427?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eadf3b9cdc1e2fb77817e"
+  },
+  "name": [
+    "C++ Developer (Middle, Senior)",
+    "78",
+    "%"
+  ],
+  "salary": [],
+  "url": "https://ufa.hh.ru/vacancy/96145551?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eadf4b9cdc1e2fb77817f"
+  },
+  "name": [
+    "Аналитик баз данных"
+  ],
+  "salary": [
+    "от ",
+    "45 000",
+    " до ",
+    "80 000",
+    " ",
+    "₽",
+    " ",
+    "до вычета налогов"
+  ],
+  "url": "https://ufa.hh.ru/vacancy/96383761?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eadf6b9cdc1e2fb778180"
+  },
+  "name": [
+    "Тестировщик ПО"
+  ],
+  "salary": [
+    "от ",
+    "90 000",
+    " ",
+    "₽",
+    " ",
+    "на руки"
+  ],
+  "url": "https://ufa.hh.ru/vacancy/96082129?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eadf7b9cdc1e2fb778181"
+  },
+  "name": [
+    "Ведущий специалист отдела мониторинга ИБ"
+  ],
+  "salary": [],
+  "url": "https://ufa.hh.ru/vacancy/96387529?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eadf9b9cdc1e2fb778182"
+  },
+  "name": [
+    "Разработчик Python",
+    "75",
+    "%"
+  ],
+  "salary": [],
+  "url": "https://ufa.hh.ru/vacancy/94747153?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eadfab9cdc1e2fb778183"
+  },
+  "name": [
+    "Frontend-разработчик Python (Middle)",
+    "85",
+    "%"
+  ],
+  "salary": [
+    "от ",
+    "60 000",
+    " до ",
+    "120 000",
+    " ",
+    "₽",
+    " ",
+    "до вычета налогов"
+  ],
+  "url": "https://ufa.hh.ru/vacancy/97030169?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eadfcb9cdc1e2fb778184"
+  },
+  "name": [
+    "Программист Python (middle)",
+    "72",
+    "%"
+  ],
+  "salary": [
+    "от ",
+    "175 000",
+    " ",
+    "₽",
+    " ",
+    "до вычета налогов"
+  ],
+  "url": "https://ufa.hh.ru/vacancy/94989175?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eadfdb9cdc1e2fb778185"
+  },
+  "name": [
+    "Python developer",
+    "88",
+    "%"
+  ],
+  "salary": [],
+  "url": "https://ufa.hh.ru/vacancy/95174988?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eae6921678f617b7b47c2"
+  },
+  "name": [
+    "Senior backend developer",
+    "72",
+    "%"
+  ],
+  "salary": [
+    "от ",
+    "250 000",
+    " ",
+    "₽",
+    " ",
+    "до вычета налогов"
+  ],
+  "url": "https://ufa.hh.ru/vacancy/94989200?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eae6a21678f617b7b47c3"
+  },
+  "name": [
+    "Руководитель направления аналитики клиентских отношений",
+    "67",
+    "%"
+  ],
+  "salary": [],
+  "url": "https://ufa.hh.ru/vacancy/97075921?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eae6c21678f617b7b47c4"
+  },
+  "name": [
+    "Инженер-программист"
+  ],
+  "salary": [
+    "от ",
+    "70 000",
+    " ",
+    "₽",
+    " ",
+    "на руки"
+  ],
+  "url": "https://ufa.hh.ru/vacancy/96993536?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eae6d21678f617b7b47c5"
+  },
+  "name": [
+    "Аналитик"
+  ],
+  "salary": [
+    "от ",
+    "40 000",
+    " ",
+    "₽",
+    " ",
+    "до вычета налогов"
+  ],
+  "url": "https://ufa.hh.ru/vacancy/94624138?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eae6f21678f617b7b47c6"
+  },
+  "name": [
+    "Инженер-программист АСУ (middle/middle+)",
+    "67",
+    "%"
+  ],
+  "salary": [],
+  "url": "https://ufa.hh.ru/vacancy/95908976?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eae7021678f617b7b47c7"
+  },
+  "name": [
+    "Middle Django-разработчик"
+  ],
+  "salary": [
+    "от ",
+    "60 000",
+    " до ",
+    "100 000",
+    " ",
+    "₽",
+    " ",
+    "на руки"
+  ],
+  "url": "https://ufa.hh.ru/vacancy/95901940?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eae7121678f617b7b47c8"
+  },
+  "name": [
+    "Senior Backend developer Python",
+    "89",
+    "%"
+  ],
+  "salary": [],
+  "url": "https://ufa.hh.ru/vacancy/94052982?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eae7321678f617b7b47c9"
+  },
+  "name": [
+    "Python-разработчик (Senior)",
+    "92",
+    "%"
+  ],
+  "salary": [
+    "до ",
+    "300 000",
+    " ",
+    "₽",
+    " ",
+    "на руки"
+  ],
+  "url": "https://ufa.hh.ru/vacancy/95059924?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eae7421678f617b7b47ca"
+  },
+  "name": [
+    "Backend-разработчик (Python)"
+  ],
+  "salary": [
+    "от ",
+    "120 000",
+    " ",
+    "₽",
+    " ",
+    "на руки"
+  ],
+  "url": "https://ufa.hh.ru/vacancy/96096172?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eae7521678f617b7b47cb"
+  },
+  "name": [
+    "Python разработчик",
+    "78",
+    "%"
+  ],
+  "salary": [],
+  "url": "https://ufa.hh.ru/vacancy/96145598?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eae7721678f617b7b47cc"
+  },
+  "name": [
+    "Python developer",
+    "77",
+    "%"
+  ],
+  "salary": [],
+  "url": "https://ufa.hh.ru/vacancy/96169785?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eae7821678f617b7b47cd"
+  },
+  "name": [
+    "Автотестировщик Python",
+    "85",
+    "%"
+  ],
+  "salary": [],
+  "url": "https://ufa.hh.ru/vacancy/96267970?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eae7921678f617b7b47ce"
+  },
+  "name": [
+    "Middle+/Senior Python-разработчик",
+    "82",
+    "%"
+  ],
+  "salary": [],
+  "url": "https://ufa.hh.ru/vacancy/92936043?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eae7a21678f617b7b47cf"
+  },
+  "name": [
+    "Backend-разработчик (Python)",
+    "85",
+    "%"
+  ],
+  "salary": [],
+  "url": "https://ufa.hh.ru/vacancy/96494519?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eae7c21678f617b7b47d0"
+  },
+  "name": [
+    "Python developer / Разработчик Python (KORNFELD)",
+    "78",
+    "%"
+  ],
+  "salary": [],
+  "url": "https://ufa.hh.ru/vacancy/96536278?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eae7d21678f617b7b47d1"
+  },
+  "name": [
+    "Программист Python, С, С++",
+    "100",
+    "%"
+  ],
+  "salary": [
+    "от ",
+    "70 000",
+    " ",
+    "₽",
+    " ",
+    "на руки"
+  ],
+  "url": "https://ufa.hh.ru/vacancy/96727843?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eae7f21678f617b7b47d2"
+  },
+  "name": [
+    "Инженер-тестировщик (наладка и испытания) АСУ ТП",
+    "80",
+    "%"
+  ],
+  "salary": [
+    "от ",
+    "90 000",
+    " ",
+    "₽",
+    " ",
+    "на руки"
+  ],
+  "url": "https://ufa.hh.ru/vacancy/96171737?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eae8021678f617b7b47d3"
+  },
+  "name": [
+    "Инженер-программист",
+    "80",
+    "%"
+  ],
+  "salary": [
+    "от ",
+    "60 000",
+    " ",
+    "₽",
+    " ",
+    "на руки"
+  ],
+  "url": "https://ufa.hh.ru/vacancy/96165095?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eae8121678f617b7b47d4"
+  },
+  "name": [
+    "Ведущий инженер-программист АСУ ТП",
+    "80",
+    "%"
+  ],
+  "salary": [
+    "от ",
+    "100 000",
+    " ",
+    "₽",
+    " ",
+    "на руки"
+  ],
+  "url": "https://ufa.hh.ru/vacancy/96171534?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eae8221678f617b7b47d5"
+  },
+  "name": [
+    "ML-инженер",
+    "75",
+    "%"
+  ],
+  "salary": [],
+  "url": "https://ufa.hh.ru/vacancy/80321762?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eae8321678f617b7b47d6"
+  },
+  "name": [
+    "Руководитель группы разработки (Team Lead)",
+    "75",
+    "%"
+  ],
+  "salary": [],
+  "url": "https://ufa.hh.ru/vacancy/91332911?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eae8421678f617b7b47d7"
+  },
+  "name": [
+    "Инженер по нагрузочному тестированию",
+    "82",
+    "%"
+  ],
+  "salary": [],
+  "url": "https://ufa.hh.ru/vacancy/95462279?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eae8621678f617b7b47d8"
+  },
+  "name": [
+    "Инженер-программист отдела анализа защищенности ПО АСУТП",
+    "50",
+    "%"
+  ],
+  "salary": [
+    "от ",
+    "115 924",
+    " до ",
+    "155 988",
+    " ",
+    "₽",
+    " ",
+    "до вычета налогов"
+  ],
+  "url": "https://ufa.hh.ru/vacancy/94176372?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eae8721678f617b7b47d9"
+  },
+  "name": [
+    "Системный администратор ЦОД",
+    "75",
+    "%"
+  ],
+  "salary": [],
+  "url": "https://ufa.hh.ru/vacancy/96205032?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eae8821678f617b7b47da"
+  },
+  "name": [
+    "Системный администратор цифрового телевидения",
+    "78",
+    "%"
+  ],
+  "salary": [
+    "от ",
+    "80 000",
+    " до ",
+    "110 000",
+    " ",
+    "₽",
+    " ",
+    "на руки"
+  ],
+  "url": "https://ufa.hh.ru/vacancy/95868426?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eae8921678f617b7b47db"
+  },
+  "name": [
+    "Учитель программирования/робототехники",
+    "85",
+    "%"
+  ],
+  "salary": [
+    "до ",
+    "110 000",
+    " ",
+    "₽",
+    " ",
+    "до вычета налогов"
+  ],
+  "url": "https://ufa.hh.ru/vacancy/96058226?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eae8a21678f617b7b47dc"
+  },
+  "name": [
+    "Системный аналитик (стажер)",
+    "97",
+    "%"
+  ],
+  "salary": [
+    "от ",
+    "70 000",
+    " до ",
+    "80 000",
+    " ",
+    "₽",
+    " ",
+    "до вычета налогов"
+  ],
+  "url": "https://ufa.hh.ru/vacancy/96428557?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eae8b21678f617b7b47dd"
+  },
+  "name": [
+    ".NET-разработчик Middle/Senior",
+    "100",
+    "%"
+  ],
+  "salary": [],
+  "url": "https://ufa.hh.ru/vacancy/91647557?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eae8c21678f617b7b47de"
+  },
+  "name": [
+    "Программист встроенных систем (unix/linux)",
+    "78",
+    "%"
+  ],
+  "salary": [
+    "от ",
+    "80 000",
+    " до ",
+    "150 000",
+    " ",
+    "₽",
+    " ",
+    "на руки"
+  ],
+  "url": "https://ufa.hh.ru/vacancy/95863769?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eae8d21678f617b7b47df"
+  },
+  "name": [
+    "Инженер по нагрузочному тестированию",
+    "78",
+    "%"
+  ],
+  "salary": [],
+  "url": "https://ufa.hh.ru/vacancy/96206573?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eae8e21678f617b7b47e0"
+  },
+  "name": [
+    "Инженер-программист",
+    "91",
+    "%"
+  ],
+  "salary": [],
+  "url": "https://ufa.hh.ru/vacancy/95670950?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eae8f21678f617b7b47e1"
+  },
+  "name": [
+    "Прикладной математик-программист C++",
+    "78",
+    "%"
+  ],
+  "salary": [],
+  "url": "https://ufa.hh.ru/vacancy/96145427?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eae9121678f617b7b47e2"
+  },
+  "name": [
+    "C++ Developer (Middle, Senior)",
+    "78",
+    "%"
+  ],
+  "salary": [],
+  "url": "https://ufa.hh.ru/vacancy/96145551?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eae9221678f617b7b47e3"
+  },
+  "name": [
+    "Аналитик баз данных"
+  ],
+  "salary": [
+    "от ",
+    "45 000",
+    " до ",
+    "80 000",
+    " ",
+    "₽",
+    " ",
+    "до вычета налогов"
+  ],
+  "url": "https://ufa.hh.ru/vacancy/96383761?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eae9421678f617b7b47e4"
+  },
+  "name": [
+    "Тестировщик ПО"
+  ],
+  "salary": [
+    "от ",
+    "90 000",
+    " ",
+    "₽",
+    " ",
+    "на руки"
+  ],
+  "url": "https://ufa.hh.ru/vacancy/96082129?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eae9521678f617b7b47e5"
+  },
+  "name": [
+    "Ведущий специалист отдела мониторинга ИБ"
+  ],
+  "salary": [],
+  "url": "https://ufa.hh.ru/vacancy/96387529?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eae9621678f617b7b47e6"
+  },
+  "name": [
+    "Разработчик Python",
+    "75",
+    "%"
+  ],
+  "salary": [],
+  "url": "https://ufa.hh.ru/vacancy/94747153?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eae9721678f617b7b47e7"
+  },
+  "name": [
+    "Frontend-разработчик Python (Middle)",
+    "85",
+    "%"
+  ],
+  "salary": [
+    "от ",
+    "60 000",
+    " до ",
+    "120 000",
+    " ",
+    "₽",
+    " ",
+    "до вычета налогов"
+  ],
+  "url": "https://ufa.hh.ru/vacancy/97030169?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eae9821678f617b7b47e8"
+  },
+  "name": [
+    "Программист Python (middle)",
+    "72",
+    "%"
+  ],
+  "salary": [
+    "от ",
+    "175 000",
+    " ",
+    "₽",
+    " ",
+    "до вычета налогов"
+  ],
+  "url": "https://ufa.hh.ru/vacancy/94989175?query=Python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "661eae9921678f617b7b47e9"
+  },
+  "name": [
+    "Python developer",
+    "88",
+    "%"
+  ],
+  "salary": [],
+  "url": "https://ufa.hh.ru/vacancy/95174988?query=Python&hhtmFrom=vacancy_search_list"
+}]
