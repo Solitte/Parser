@@ -11,4 +11,6 @@ class UnsplashparserItem(scrapy.Item):
     name = scrapy.Field()
     category = scrapy.Field()
     photo = scrapy.Field()
-    pass
+    photo_path = scrapy.Field()
+
+

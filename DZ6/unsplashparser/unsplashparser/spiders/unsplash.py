@@ -10,10 +10,10 @@ class UnsplashSpider(scrapy.Spider):
 
     def parse(self, response):
         categorys = response.xpath("//li/a[contains(@href, '/t/')]")
-        for category in categorys[:1]:
+        for category in categorys:
             yield response.follow(category, callback=self.parse)
         photo_links = response.xpath('//div/a[@itemprop="contentUrl"]/@href')
-        for link in photo_links[:2]:
+        for link in photo_links:
             yield response.follow(link, callback=self.parse_photo)
 
     def parse_photo(self, response: HtmlResponse):
