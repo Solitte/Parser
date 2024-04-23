@@ -9,6 +9,7 @@ from unsplashparser.unsplashparser.spiders.unsplash import UnsplashSpider
 if __name__ == '__main__':
     configure_logging()
     install_reactor("twisted.internet.asyncioreactor.AsyncioSelectorReactor")
+    # mark = input()
     process = CrawlerProcess(get_project_settings())
     process.crawl(UnsplashSpider)
     process.start()

@@ -8,6 +8,9 @@ class UnsplashSpider(scrapy.Spider):
     allowed_domains = ["unsplash.com"]
     start_urls = ["https://unsplash.com"]
 
+    # def __init__(self, mark):
+    #     self.start_urls = [f'https://unsplash.com/s/photos/{mark}']
+
     def parse(self, response):
         categorys = response.xpath("//li/a[contains(@href, '/t/')]")
         for category in categorys:
